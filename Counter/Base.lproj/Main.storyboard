@@ -74,11 +74,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="UIButtonMinus" destination="WMj-W9-Qnk" id="FMe-Cs-d8B"/>
-                        <outlet property="UIButtonPlus" destination="9vq-gt-Fpx" id="eh5-6w-Bvt"/>
-                        <outlet property="UIButtonRefresh" destination="TJb-eR-ZF0" id="2c7-9Y-BkN"/>
-                        <outlet property="UILabelCounterValue" destination="8oS-uI-QH0" id="ggO-6X-aFm"/>
-                        <outlet property="UITextViewHistory" destination="Ar6-x8-qjT" id="lfy-JT-jiC"/>
+                        <outlet property="buttonMinus" destination="WMj-W9-Qnk" id="FMe-Cs-d8B"/>
+                        <outlet property="buttonPlus" destination="9vq-gt-Fpx" id="eh5-6w-Bvt"/>
+                        <outlet property="buttonRefresh" destination="TJb-eR-ZF0" id="2c7-9Y-BkN"/>
+                        <outlet property="labelCounterValue" destination="8oS-uI-QH0" id="ggO-6X-aFm"/>
+                        <outlet property="textViewHistory" destination="Ar6-x8-qjT" id="lfy-JT-jiC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
